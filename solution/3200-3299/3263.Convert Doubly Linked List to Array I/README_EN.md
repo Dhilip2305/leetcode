@@ -104,7 +104,6 @@ class Node {
     public Node next;
 };
 */
-
 class Solution {
     public int[] toArray(Node head) {
         List<Integer> ans = new ArrayList<>();
